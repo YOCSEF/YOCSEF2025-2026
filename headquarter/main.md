@@ -10,7 +10,7 @@ YOCSEF论坛针对计算机学术、产业、技术和社会热点问题进行�
 
 | 姓名      | 照片 |  简介 | 联系分论坛      | 
 | --------   | -----  | ----  | ----  |  
-| 贺瑞君    | ![](https://pandao.github.io/editor.md/examples/images/4.jpg) |   总部主席     |兰州        |
+| 贺瑞君    | ![](https://github.com/YOCSEF/YOCSEF2025-2026/blob/main/headquarter/head.jpg) |   总部主席     |兰州        |
 | 范举       |    |   副主席   |济南        |
 | 陈昊        |       |  学术秘书 |广州        | 
 | 张三    |       |  教授 |吐鲁番       | 
