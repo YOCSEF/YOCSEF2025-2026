@@ -22,15 +22,15 @@ YOCSEF论坛针对计算机学术、产业、技术和社会热点问题进行�
 ## 文化展示
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 ## 活动列表
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
 ## 历史入口
-[2024-2025](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [2024-2025](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+* [2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
