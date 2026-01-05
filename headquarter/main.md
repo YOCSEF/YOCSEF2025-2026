@@ -11,7 +11,7 @@ YOCSEF论坛针对计算机学术、产业、技术和社会热点问题进行�
 
 | 姓名      | 照片 |  简介 | 联系分论坛      | 
 | --------   | ------------- | --------------------  | ----  |  
-| 贺瑞君 <div style="width: 50pt"> | <div style="width: 150pt">![](https://github.com/YOCSEF/YOCSEF2025-2026/blob/main/headquarter/head.jpg) |   <div style="width: 250pt"> **总部主席**<br>CCF高级会员、YOCSEF总部AC委员，CCF传播工委副主任、量子计算专委和国际合作工委执委。人民邮电出版社高级策划编辑、副编审，人民邮电出版社第五届出版专业领军人才，专注信息类高水平学术专著及前沿技术图书出版，2019年以来所策划图书获中国出版政府奖图书提名奖、全国优秀科普作品奖，获国家科技学术出版基金支持，或入选中宣部主题出版重点出版物、中组部第五届全国党员教育培训精品教材，多套丛书获国家出版基金支持并入选国家“十四五”重点出版物规划。曾担任Taylor & Francis集团亚太科技图书主管编辑。     |兰州        |
+| 贺瑞君 <div style="width: 50pt"> | <div style="width: 150pt"> ![](https://github.com/YOCSEF/YOCSEF2025-2026/blob/main/headquarter/head.jpg) |   <div style="width: 250pt"> **总部主席**<br>CCF高级会员、YOCSEF总部AC委员，CCF传播工委副主任、量子计算专委和国际合作工委执委。人民邮电出版社高级策划编辑、副编审，人民邮电出版社第五届出版专业领军人才，专注信息类高水平学术专著及前沿技术图书出版，2019年以来所策划图书获中国出版政府奖图书提名奖、全国优秀科普作品奖，获国家科技学术出版基金支持，或入选中宣部主题出版重点出版物、中组部第五届全国党员教育培训精品教材，多套丛书获国家出版基金支持并入选国家“十四五”重点出版物规划。曾担任Taylor & Francis集团亚太科技图书主管编辑。     |兰州        |
 | 范举       |    |   副主席   |济南        |
 | 陈昊        |       |  学术秘书 |广州        | 
 | 张三    |       |  教授 |吐鲁番       | 
@@ -22,15 +22,15 @@ YOCSEF论坛针对计算机学术、产业、技术和社会热点问题进行�
 ## 文化展示
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 ## 活动列表
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
+[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[CCF YOCSEF总部举办“微信等‘封杀’豆包手机助手，根因与未来？”特别论坛](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
 ## 历史入口
-[2024-2025](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
-[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)
+[2024-2025](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
+[2023-2024](https://www.yocsef.org.cn/YOCSEF/News/2025-12-17/854112.shtml)<br>
